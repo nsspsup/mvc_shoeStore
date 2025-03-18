@@ -1,4 +1,3 @@
-# shoe_controller.py
 from shoe import Shoe
 from shoeModel import ShoeModel
 from shoeView import ShoeView

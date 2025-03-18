@@ -1,4 +1,3 @@
-# shoe_model.py
 class ShoeModel:
     def __init__(self):
         self.shoes = []

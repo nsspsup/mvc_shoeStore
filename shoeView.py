@@ -1,4 +1,4 @@
-# shoe_view.py
+
 class ShoeView:
     @staticmethod
     def display_shoes(shoes):
